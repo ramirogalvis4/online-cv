@@ -41,16 +41,16 @@ sidebar:
     - idiom: Frances
       level: basico
 
-  interest-title: Hobbies
-  interests:
-    - item: 
-      link:
+  # interest-title: Hobbies
+  # interests:
+  #   - item: 
+  #     link:
 
-    - item:
-      link:
+  #   - item:
+  #     link:
 
-    - item:
-      link:
+  #   - item:
+      # link:
 
 career-profile:
   title: Perfil Profesional
