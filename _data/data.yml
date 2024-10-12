@@ -183,45 +183,24 @@ projects:
       link: "https://drive.google.com/file/d/1EzSl5zZKLdXnALzLz-KzZHGYplYd0SKT/view?usp=sharing"
       tagline: "Gente Estrategica, 18 Agosto 2016"
 
-projects:
+publications:
   title: Voluntariandos
   intro: #>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
+  papers:
     - title: Semillero de investigación en calidad de ponente
       link: "https://drive.google.com/file/d/1OQlha4dibSMTsUaq8wClrKppjh38CTob/view?usp=sharing"
-      tagline: "RedCOLSI, 02 Octubre 2020"
+      conference: "RedCOLSI, 02 Octubre 2020"
 
     - title: Semillero de investigación e innovación
       link: "https://drive.google.com/file/d/1NZPGW9kFQlC-A3g2m_pmzrhh3N57Sl-z/view?usp=sharing"
-      tagline: "Universidad Simón Bolívar, 31 marzo 2020"
+      conference: "Universidad Simón Bolívar, 31 marzo 2020"
     
     - title: Semillero en el Programa de aceleración empresariál SIM.
       link: "https://drive.google.com/file/d/15UFbkAQDBWRJ--Zy3Ejd94-YlE7XyYJx/view?usp=sharing"
-      tagline: "MacondoLab, 11 Abril 2019"
-#publications:
-#title: Publications
-#intro: |
-#You can list your publications in this section. Lorem ipsum dolor sit
-#amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#bibendum fringilla a eu lectus.
-#papers:
-#- title: The Art of Computer Programming
-#link: "#"
-#authors: Donald E. Knuth
-#conference: Addison-Wesley, 1968
-
-#- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#link: "#"
-#authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#- title: A syntax directed compiler for Algol 60
-#link: "#"
-#authors: Edgar T. Irons
-#conference: "Comm. ACM 4 (1961), 51–55"
+      conference: "MacondoLab, 11 Abril 2019"
 
 skills:
   title: Skills #&amp; Proficiency
