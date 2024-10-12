@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Ramiro Alfonso Galvis Zambrano
-  tagline: Profesional en comercio y negocios internacionales
+  conference: Profesional en comercio y negocios internacionales
   avatar: Profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
   website: #do not add http://
   linkedin: ramirogalvis4
   xing: #alandoe
-  github: 
+  github:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -43,14 +43,14 @@ sidebar:
 
   # interest-title: Hobbies
   # interests:
-  #   - item: 
-  #     link:
-
   #   - item:
   #     link:
 
   #   - item:
-      # link:
+  #     link:
+
+  #   - item:
+  # link:
 
 career-profile:
   title: Perfil Profesional
@@ -65,16 +65,16 @@ career-profile:
 
 education:
   - degree: Profesional en comercio y negocios internacionales
-    university: UNIVERSIDAD SIMÓN BOLÍVAR 
+    university: UNIVERSIDAD SIMÓN BOLÍVAR
     time: 2016 - 2021
     # details: |
-      #
-  
+    #
+
   - degree: Tec por competencia laboral en logística y mercadeo de punto de venta
     university: GENTE ESTRATEGICA
     time: 2014 - 2016
     # details: |
-      # 
+    #
 
 experiences:
   - role: Subgerente de sala de ventas
@@ -88,7 +88,7 @@ experiences:
       Adicionalmente me corresponde supervisar el llenado de la tienda según los 
       estándares de la compañía y resolución de cualquier novedad en el área de 
       cajas ya sea con el sistema o con los clientes.
-  
+
   - role: Supervisor de almacenamiento de producto terminado
     time: 2022 - 2023
     company: Postobón S.A. - Colombia
@@ -99,8 +99,8 @@ experiences:
       verificando la inocuidad y calidad de los productos, la autorización 
       del despacho de la flota y la recepción de estos validando que la 
       mercancía reintegrada corresponda a la arrojada por el sistema.
-  
-  - role: Coordinador de compras y distribución de mercancías  
+
+  - role: Coordinador de compras y distribución de mercancías
     time: 2019 - 2021
     company: Transportes San Reyes S.A.S
     details: |
@@ -108,99 +108,99 @@ experiences:
       Así como a distribución de estas, en función de las necesidades 
       del cliente. Garantizando su satisfacción.
 
-projects:
-  title: Cursos y Certificados
-  intro: #>
-    #You can list your side projects or open source libraries in this
-    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Gestión Integral de la Cadena de Suministros
-      link: "https://drive.google.com/file/d/1MlmzNSczx9BGVg5k5X6ODzzyOWsr5eyU/view?usp=sharing"
-      tagline: "CCB, 27 Octubre 2021"
-    
-    - title: Profesíonal en comercío en comercío y negocíos internacíonales 
-      link: "https://drive.google.com/file/d/1sGYzSYzwx3qXVVG8dwOwX_JazLUEhn94/view?usp=sharing"
-      tagline: "Universidad Simón Bolívar, 13 Agosto 2021"
-    
-    - title: Minor en logística y negocios internacionales
-      link: "https://drive.google.com/file/d/1pylmJLae0EQ7x3ApBYig-aluAPTWGG0i/view?usp=sharing"
-      tagline: "Universidad Simón Bolívar, 13 Agosto 2021"
-    
-    - title: Indicadores de gestión
-      link: "https://drive.google.com/file/d/1p-j34AGN46DtFfoUa4hxpRCA-eQdZj1J/view?usp=sharing"
-      tagline: "CCB, 27 Mayo 2021"
-    
-    - title: Productividad en empresas de servicios
-      link: "https://drive.google.com/file/d/1yjrdrhhfpxbjF6z6oCgQUFHkz2C2ujyd/view?usp=sharing"
-      tagline: "CCB, 8 Mayo 2021"
-    
-    - title: Metodologías de mejoramiento de la productividad
-      link: "https://drive.google.com/file/d/1w6EIvZ3wUOpH7KMaey-EVSAkcdTR4OpY/view?usp=sharing"
-      tagline: "CCB, 24 Abril 2021"
-    
-    - title: Gestión de procesos y logística para exportar servicios
-      link: "https://drive.google.com/file/d/16MiJppYYkyHBCHyxlNZCVakLu6XRGrnC/view?usp=sharing"
-      tagline: "CCB, 21 Abril 2021"
-
-    - title: Presentaciones efectivas frente al cliente
-      link: "https://drive.google.com/file/d/1ijO46uC0wMr-LL_5O-qsWKLrGVF3OTQd/view?usp=sharing"
-      tagline: "CCB, 20 Abril 2021"
-
-    - title: Estructura y presenta el pitch de tu empresa
-      link: "https://drive.google.com/file/d/12oVtZgzPaL9HUus5JQ0es9xnKij-Be2U/view?usp=sharing"
-      tagline: "CCB, 19 Abril 2021"
-
-    - title: Administra las compras, los inventarios y la logística de tu empresa
-      link: "https://drive.google.com/file/d/1JxtpY3jBUjfp6mn0-iXMNNO8Txr96GG2/view?usp=sharing"
-      tagline: "CCB, 18 Abril 2021"
-
-    - title: Transformación Digital
-      link: "https://drive.google.com/file/d/1Mhg6x5iuhw2orihKVipEH9l7WxPyXrzV/view?usp=sharing"
-      tagline: "Instituto Europeo De Posgrado, 7 marzo 2021"
-
-    - title: Aspectos aduaneros, cambiarios y tributarios en las operaciones internacionales
-      link: "https://drive.google.com/file/d/1Q8iRoXek-LC_awdqLsRtQAgU1y_3OOvT/view?usp=sharing"
-      tagline: "CCB, 8 Junio 2020"
-    
-    - title: Método Harvard de Negociación
-      link: "https://drive.google.com/file/d/1dWlDcs3FsyyzSJq2OkcqJhXjnd_UlenY/view?usp=sharing"
-      tagline: "Instituto Europeo De Posgrado, 19 mayo 2020"
-
-    - title: Viabilidad financiera para la internacionalización
-      link: "https://drive.google.com/file/d/1A5YTw0owa0U7Cp3C6LCqo0ulQvofBz13/view?usp=sharing"
-      tagline: "CCB, 22 Agosto 2019"
-    
-    - title: Herramientas Clave de un proceso de exportación
-      link: "https://drive.google.com/file/d/1-Vr8O0J5LskvA2AZC3uOJdnw6B_UyYql/view?usp=sharing"
-      tagline: "CCB, 15 Julio 2019"
-
-    - title: Riesgo de corrupción y lavado de activos
-      link: "https://drive.google.com/file/d/1H5_hsSl5zpbpgy0zoCIBhjO71h5L-l9R/view?usp=sharing"
-      tagline: "UIAF, 22 Febrero 2019"
-
-    - title: Tecnico laboral por competencia en logistica y mercadeo de punto de venta
-      link: "https://drive.google.com/file/d/1EzSl5zZKLdXnALzLz-KzZHGYplYd0SKT/view?usp=sharing"
-      tagline: "Gente Estrategica, 18 Agosto 2016"
-
 publications:
-  title: Voluntariandos
-  intro: #>
+  title: Cursos y Certificados
+  intro:#>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   papers:
+    - title: Gestión Integral de la Cadena de Suministros
+      link: "https://drive.google.com/file/d/1MlmzNSczx9BGVg5k5X6ODzzyOWsr5eyU/view?usp=sharing"
+      conference: "CCB, 27 Octubre 2021"
+
+    - title: Profesíonal en comercío en comercío y negocíos internacíonales
+      link: "https://drive.google.com/file/d/1sGYzSYzwx3qXVVG8dwOwX_JazLUEhn94/view?usp=sharing"
+      conference: "Universidad Simón Bolívar, 13 Agosto 2021"
+
+    - title: Minor en logística y negocios internacionales
+      link: "https://drive.google.com/file/d/1pylmJLae0EQ7x3ApBYig-aluAPTWGG0i/view?usp=sharing"
+      conference: "Universidad Simón Bolívar, 13 Agosto 2021"
+
+    - title: Indicadores de gestión
+      link: "https://drive.google.com/file/d/1p-j34AGN46DtFfoUa4hxpRCA-eQdZj1J/view?usp=sharing"
+      conference: "CCB, 27 Mayo 2021"
+
+    - title: Productividad en empresas de servicios
+      link: "https://drive.google.com/file/d/1yjrdrhhfpxbjF6z6oCgQUFHkz2C2ujyd/view?usp=sharing"
+      conference: "CCB, 8 Mayo 2021"
+
+    - title: Metodologías de mejoramiento de la productividad
+      link: "https://drive.google.com/file/d/1w6EIvZ3wUOpH7KMaey-EVSAkcdTR4OpY/view?usp=sharing"
+      conference: "CCB, 24 Abril 2021"
+
+    - title: Gestión de procesos y logística para exportar servicios
+      link: "https://drive.google.com/file/d/16MiJppYYkyHBCHyxlNZCVakLu6XRGrnC/view?usp=sharing"
+      conference: "CCB, 21 Abril 2021"
+
+    - title: Presentaciones efectivas frente al cliente
+      link: "https://drive.google.com/file/d/1ijO46uC0wMr-LL_5O-qsWKLrGVF3OTQd/view?usp=sharing"
+      conference: "CCB, 20 Abril 2021"
+
+    - title: Estructura y presenta el pitch de tu empresa
+      link: "https://drive.google.com/file/d/12oVtZgzPaL9HUus5JQ0es9xnKij-Be2U/view?usp=sharing"
+      conference: "CCB, 19 Abril 2021"
+
+    - title: Administra las compras, los inventarios y la logística de tu empresa
+      link: "https://drive.google.com/file/d/1JxtpY3jBUjfp6mn0-iXMNNO8Txr96GG2/view?usp=sharing"
+      conference: "CCB, 18 Abril 2021"
+
+    - title: Transformación Digital
+      link: "https://drive.google.com/file/d/1Mhg6x5iuhw2orihKVipEH9l7WxPyXrzV/view?usp=sharing"
+      conference: "Instituto Europeo De Posgrado, 7 marzo 2021"
+
+    - title: Aspectos aduaneros, cambiarios y tributarios en las operaciones internacionales
+      link: "https://drive.google.com/file/d/1Q8iRoXek-LC_awdqLsRtQAgU1y_3OOvT/view?usp=sharing"
+      conference: "CCB, 8 Junio 2020"
+
+    - title: Método Harvard de Negociación
+      link: "https://drive.google.com/file/d/1dWlDcs3FsyyzSJq2OkcqJhXjnd_UlenY/view?usp=sharing"
+      conference: "Instituto Europeo De Posgrado, 19 mayo 2020"
+
+    - title: Viabilidad financiera para la internacionalización
+      link: "https://drive.google.com/file/d/1A5YTw0owa0U7Cp3C6LCqo0ulQvofBz13/view?usp=sharing"
+      conference: "CCB, 22 Agosto 2019"
+
+    - title: Herramientas Clave de un proceso de exportación
+      link: "https://drive.google.com/file/d/1-Vr8O0J5LskvA2AZC3uOJdnw6B_UyYql/view?usp=sharing"
+      conference: "CCB, 15 Julio 2019"
+
+    - title: Riesgo de corrupción y lavado de activos
+      link: "https://drive.google.com/file/d/1H5_hsSl5zpbpgy0zoCIBhjO71h5L-l9R/view?usp=sharing"
+      conference: "UIAF, 22 Febrero 2019"
+
+    - title: Tecnico laboral por competencia en logistica y mercadeo de punto de venta
+      link: "https://drive.google.com/file/d/1EzSl5zZKLdXnALzLz-KzZHGYplYd0SKT/view?usp=sharing"
+      conference: "Gente Estrategica, 18 Agosto 2016"
+
+projects:
+  title: Voluntariandos
+  intro:#>
+    #You can list your side projects or open source libraries in this
+    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
     - title: Semillero de investigación en calidad de ponente
       link: "https://drive.google.com/file/d/1OQlha4dibSMTsUaq8wClrKppjh38CTob/view?usp=sharing"
-      conference: "RedCOLSI, 02 Octubre 2020"
+      tagline: "RedCOLSI, 02 Octubre 2020"
 
     - title: Semillero de investigación e innovación
       link: "https://drive.google.com/file/d/1NZPGW9kFQlC-A3g2m_pmzrhh3N57Sl-z/view?usp=sharing"
-      conference: "Universidad Simón Bolívar, 31 marzo 2020"
-    
+      tagline: "Universidad Simón Bolívar, 31 marzo 2020"
+
     - title: Semillero en el Programa de aceleración empresariál SIM.
       link: "https://drive.google.com/file/d/15UFbkAQDBWRJ--Zy3Ejd94-YlE7XyYJx/view?usp=sharing"
-      conference: "MacondoLab, 11 Abril 2019"
+      tagline: "MacondoLab, 11 Abril 2019"
 
 skills:
   title: Skills #&amp; Proficiency
@@ -208,13 +208,12 @@ skills:
   toolset:
     - name: Google Analytics
       level: 80%
-        
+
     - name: Microsoft Office
       level: 90%
 
     - name: HubSpot CRM
       level: 70%
-
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
