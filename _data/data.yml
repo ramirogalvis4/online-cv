@@ -3,266 +3,238 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ramiro Alfonso Galvis Zambrano
+  tagline: Profesional en comercio y negocios internacionales
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  # Sidebar links
+  email: ramirogalvis4@hotmail.com
+  phone: +57 3006572932
+  website: #do not add http://
+  linkedin: ramiro-alfonso-galvis-zambrana
+  xing: #alandoe
+  github: 
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: #'@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  cv-title: Hoja de vida
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  experience-title: Experiencia profesional
+  education-title: Formación académica
+  language-title: Idiomas
+  languages:
+    - idiom: Español
+      level: Nativo
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    - idiom: Ingles
+      level: intermedio
 
-        - idiom: French
-          level: Professional
+    - idiom: Frances
+      level: basico
 
-        - idiom: Spanish
-          level: Professional
+  interest-title: Hobbies
+  interests:
+    - item: 
+      link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    - item:
+      link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    - item:
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Perfil Profesional
+  summary: |
+    Profesional en comercio y negocios internacionales con más de 6 años de experiencia 
+    en logística, distribución y ventas de mercancías. Creando relaciones estables y 
+    cooperativas con clientes, proveedores e intermediarios de los sectores de 
+    Telecomunicaciones, electro menor, automotor, transporte de materiales de construcción 
+    y alimentos. Con grandes capacidades gestionando tareas de liderazgo administrativas y 
+    operativas tanto virtual como físicamente. Con facilidad de comunicación gracias a mi 
+    dominio del lenguaje corporal y verbal.
+
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  - degree: Profesional en comercio y negocios internacionales
+    university: UNIVERSIDAD SIMÓN BOLÍVAR 
+    time: 2016 - 2021
+    # details: |
+      #
+  
+  - degree: Técnico por competencia laboral en logística y mercadeo de punto de venta
+    university: GENTE ESTRATEGICA
+    time: 2014 - 2016
+    # details: |
+      # 
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+  - role: Subgerente de sala de ventas
+    time: 2024 - actualidad
+    company: Dollarcity - Colombia
+    details: |
+      Dentro de mis funciones se encuentra el recibo de mercadería tanto de 
+      nuestro cedi como de proveedores externos, el alistamiento del punto de 
+      venta para la apertura habiendo realizado previamente el cuadro de los 
+      fondos fijos y las remesas así como la entrega de los fondos a los asesores. 
+      Adicionalmente me corresponde supervisar el llenado de la tienda según los 
+      estándares de la compañía y resolución de cualquier novedad en el área de 
+      cajas ya sea con el sistema o con los clientes.
+  
+  - role: Supervisor de almacenamiento de producto terminado
+    time: 2022 - 2023
+    company: Postobón S.A. - Colombia
+    details: |
+      Entre mis funciones se encuentra la planificación operativa 
+      del cargue de la flota, liderazgo de los equipos tanto de operarios 
+      uno como de montacarguistas y conductores, la supervisión del cargue 
+      verificando la inocuidad y calidad de los productos, la autorización 
+      del despacho de la flota y la recepción de estos validando que la 
+      mercancía reintegrada corresponda a la arrojada por el sistema.
+  
+  - role: Coordinador de compras y distribución de mercancías  
+    time: 2019 - 2021
+    company: Transportes San Reyes S.A.S
+    details: |
+      Gestionaba la negociación y adquisición de mercancías. 
+      Así como a distribución de estas, en función de las necesidades 
+      del cliente. Garantizando su satisfacción.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Cursos y Certificados
+  intro:#>
+    #You can list your side projects or open source libraries in this
+    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Gestión Integral de la Cadena de Suministros
+      link: "https://drive.google.com/file/d/1MlmzNSczx9BGVg5k5X6ODzzyOWsr5eyU/view?usp=sharing"
+      tagline: "CCB, 27 Octubre 2021"
+    
+    - title: Profesíonal en comercío en comercío y negocíos internacíonales 
+      link: "https://drive.google.com/file/d/1sGYzSYzwx3qXVVG8dwOwX_JazLUEhn94/view?usp=sharing"
+      tagline: "Universidad Simón Bolívar, 13 Agosto 2021"
+    
+    - title: Minor en logística y negocios internacionales
+      link: "https://drive.google.com/file/d/1pylmJLae0EQ7x3ApBYig-aluAPTWGG0i/view?usp=sharing"
+      tagline: "Universidad Simón Bolívar, 13 Agosto 2021"
+    
+    - title: Indicadores de gestión
+      link: "https://drive.google.com/file/d/1p-j34AGN46DtFfoUa4hxpRCA-eQdZj1J/view?usp=sharing"
+      tagline: "CCB, 27 Mayo 2021"
+    
+    - title: Productividad en empresas de servicios
+      link: "https://drive.google.com/file/d/1yjrdrhhfpxbjF6z6oCgQUFHkz2C2ujyd/view?usp=sharing"
+      tagline: "CCB, 8 Mayo 2021"
+    
+    - title: Metodologías de mejoramiento de la productividad
+      link: "https://drive.google.com/file/d/1w6EIvZ3wUOpH7KMaey-EVSAkcdTR4OpY/view?usp=sharing"
+      tagline: "CCB, 24 Abril 2021"
+    
+    - title: Gestión de procesos y logística para exportar servicios
+      link: "https://drive.google.com/file/d/16MiJppYYkyHBCHyxlNZCVakLu6XRGrnC/view?usp=sharing"
+      tagline: "CCB, 21 Abril 2021"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Presentaciones efectivas frente al cliente
+      link: "https://drive.google.com/file/d/1ijO46uC0wMr-LL_5O-qsWKLrGVF3OTQd/view?usp=sharing"
+      tagline: "CCB, 20 Abril 2021"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Estructura y presenta el pitch de tu empresa
+      link: "https://drive.google.com/file/d/12oVtZgzPaL9HUus5JQ0es9xnKij-Be2U/view?usp=sharing"
+      tagline: "CCB, 19 Abril 2021"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Administra las compras, los inventarios y la logística de tu empresa
+      link: "https://drive.google.com/file/d/1JxtpY3jBUjfp6mn0-iXMNNO8Txr96GG2/view?usp=sharing"
+      tagline: "CCB, 18 Abril 2021"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Transformación Digital
+      link: "https://drive.google.com/file/d/1Mhg6x5iuhw2orihKVipEH9l7WxPyXrzV/view?usp=sharing"
+      tagline: "Instituto Europeo De Posgrado, 7 marzo 2021"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Aspectos aduaneros, cambiarios y tributarios en las operaciones internacionales
+      link: "https://drive.google.com/file/d/1Q8iRoXek-LC_awdqLsRtQAgU1y_3OOvT/view?usp=sharing"
+      tagline: "CCB, 8 Junio 2020"
+    
+    - title: Método Harvard de Negociación
+      link: "https://drive.google.com/file/d/1dWlDcs3FsyyzSJq2OkcqJhXjnd_UlenY/view?usp=sharing"
+      tagline: "Instituto Europeo De Posgrado, 19 mayo 2020"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Viabilidad financiera para la internacionalización
+      link: "https://drive.google.com/file/d/1A5YTw0owa0U7Cp3C6LCqo0ulQvofBz13/view?usp=sharing"
+      tagline: "Camara de comercio de bogota, 22 Agosto 2019"
+    
+    - title: Herramientas Clave de un proceso de exportación
+      link: "https://drive.google.com/file/d/1-Vr8O0J5LskvA2AZC3uOJdnw6B_UyYql/view?usp=sharing"
+      tagline: "Camara de comercio de bogota, 15 Julio 2019"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Riesgo de corrupción y lavado de activos
+      link: "https://drive.google.com/file/d/1H5_hsSl5zpbpgy0zoCIBhjO71h5L-l9R/view?usp=sharing"
+      tagline: "UIAF, 22 Febrero 2019"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - title: Tecnico laboral por competencia en logistica y mercadeo de punto de venta
+      link: "https://drive.google.com/file/d/1EzSl5zZKLdXnALzLz-KzZHGYplYd0SKT/view?usp=sharing"
+      tagline: "Gente Estrategica, 18 Agosto 2016"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+projects:
+  title: Voluntariandos
+  intro:#>
+    #You can list your side projects or open source libraries in this
+    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Semillero de investigación en calidad de ponente
+      link: "https://drive.google.com/file/d/1OQlha4dibSMTsUaq8wClrKppjh38CTob/view?usp=sharing"
+      tagline: "RedCOLSI, 02 Octubre 2020"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Semillero de investigación e innovación
+      link: "https://drive.google.com/file/d/1NZPGW9kFQlC-A3g2m_pmzrhh3N57Sl-z/view?usp=sharing"
+      tagline: "Universidad Simón Bolívar, 31 marzo 2020"
+    
+    - title: Semillero en el Programa de aceleración empresariál SIM.
+      link: "https://drive.google.com/file/d/15UFbkAQDBWRJ--Zy3Ejd94-YlE7XyYJx/view?usp=sharing"
+      tagline: "MacondoLab, 11 Abril 2019"
+#publications:
+#title: Publications
+#intro: |
+#You can list your publications in this section. Lorem ipsum dolor sit
+#amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#bibendum fringilla a eu lectus.
+#papers:
+#- title: The Art of Computer Programming
+#link: "#"
+#authors: Donald E. Knuth
+#conference: Addison-Wesley, 1968
+
+#- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#link: "#"
+#authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#- title: A syntax directed compiler for Algol 60
+#link: "#"
+#authors: Edgar T. Irons
+#conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills #&amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Google Analytics
+      level: 80%
+        
+    - name: Microsoft Office
+      level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: HubSpot CRM
+      level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
