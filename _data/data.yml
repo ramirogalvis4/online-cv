@@ -109,7 +109,7 @@ experiences:
       del cliente. Garantizando su satisfacción.
 
 publications:
-  title: Cursos y Certificados
+  title: Cursos y Certificaciones
   intro: #>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -184,7 +184,7 @@ publications:
       conference: "Gente Estrategica, 18 Agosto 2016"
 
 projects:
-  title: Voluntariandos
+  title: Voluntariados
   intro: #>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
